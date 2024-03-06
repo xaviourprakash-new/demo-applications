@@ -1,0 +1,68 @@
+E:\Projects\Udemy Learnings 2024\Microsoft Azure for .NET Developers\Azure.NetCore.Demos\Microservice2Api.Containers.Demo\bin\Debug\net7.0\appsettings.Development.json
+E:\Projects\Udemy Learnings 2024\Microsoft Azure for .NET Developers\Azure.NetCore.Demos\Microservice2Api.Containers.Demo\bin\Debug\net7.0\appsettings.json
+E:\Projects\Udemy Learnings 2024\Microsoft Azure for .NET Developers\Azure.NetCore.Demos\Microservice2Api.Containers.Demo\bin\Debug\net7.0\Microservice2Api.Containers.Demo.exe
+E:\Projects\Udemy Learnings 2024\Microsoft Azure for .NET Developers\Azure.NetCore.Demos\Microservice2Api.Containers.Demo\bin\Debug\net7.0\Microservice2Api.Containers.Demo.deps.json
+E:\Projects\Udemy Learnings 2024\Microsoft Azure for .NET Developers\Azure.NetCore.Demos\Microservice2Api.Containers.Demo\bin\Debug\net7.0\Microservice2Api.Containers.Demo.runtimeconfig.json
+E:\Projects\Udemy Learnings 2024\Microsoft Azure for .NET Developers\Azure.NetCore.Demos\Microservice2Api.Containers.Demo\bin\Debug\net7.0\Microservice2Api.Containers.Demo.dll
+E:\Projects\Udemy Learnings 2024\Microsoft Azure for .NET Developers\Azure.NetCore.Demos\Microservice2Api.Containers.Demo\bin\Debug\net7.0\Microservice2Api.Containers.Demo.pdb
+E:\Projects\Udemy Learnings 2024\Microsoft Azure for .NET Developers\Azure.NetCore.Demos\Microservice2Api.Containers.Demo\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\Projects\Udemy Learnings 2024\Microsoft Azure for .NET Developers\Azure.NetCore.Demos\Microservice2Api.Containers.Demo\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\Projects\Udemy Learnings 2024\Microsoft Azure for .NET Developers\Azure.NetCore.Demos\Microservice2Api.Containers.Demo\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Projects\Udemy Learnings 2024\Microsoft Azure for .NET Developers\Azure.NetCore.Demos\Microservice2Api.Containers.Demo\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Projects\Udemy Learnings 2024\Microsoft Azure for .NET Developers\Azure.NetCore.Demos\Microservice2Api.Containers.Demo\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Projects\Udemy Learnings 2024\Microsoft Azure for .NET Developers\Azure.NetCore.Demos\Microservice2Api.Containers.Demo\obj\Debug\net7.0\Microservice2Api.Containers.Demo.csproj.AssemblyReference.cache
+E:\Projects\Udemy Learnings 2024\Microsoft Azure for .NET Developers\Azure.NetCore.Demos\Microservice2Api.Containers.Demo\obj\Debug\net7.0\Microservice2Api.Containers.Demo.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Udemy Learnings 2024\Microsoft Azure for .NET Developers\Azure.NetCore.Demos\Microservice2Api.Containers.Demo\obj\Debug\net7.0\Microservice2Api.Containers.Demo.AssemblyInfoInputs.cache
+E:\Projects\Udemy Learnings 2024\Microsoft Azure for .NET Developers\Azure.NetCore.Demos\Microservice2Api.Containers.Demo\obj\Debug\net7.0\Microservice2Api.Containers.Demo.AssemblyInfo.cs
+E:\Projects\Udemy Learnings 2024\Microsoft Azure for .NET Developers\Azure.NetCore.Demos\Microservice2Api.Containers.Demo\obj\Debug\net7.0\Microservice2Api.Containers.Demo.csproj.CoreCompileInputs.cache
+E:\Projects\Udemy Learnings 2024\Microsoft Azure for .NET Developers\Azure.NetCore.Demos\Microservice2Api.Containers.Demo\obj\Debug\net7.0\Microservice2Api.Containers.Demo.MvcApplicationPartsAssemblyInfo.cs
+E:\Projects\Udemy Learnings 2024\Microsoft Azure for .NET Developers\Azure.NetCore.Demos\Microservice2Api.Containers.Demo\obj\Debug\net7.0\Microservice2Api.Containers.Demo.MvcApplicationPartsAssemblyInfo.cache
+E:\Projects\Udemy Learnings 2024\Microsoft Azure for .NET Developers\Azure.NetCore.Demos\Microservice2Api.Containers.Demo\obj\Debug\net7.0\Microservice2Api.Containers.Demo.sourcelink.json
+E:\Projects\Udemy Learnings 2024\Microsoft Azure for .NET Developers\Azure.NetCore.Demos\Microservice2Api.Containers.Demo\obj\Debug\net7.0\staticwebassets.build.json
+E:\Projects\Udemy Learnings 2024\Microsoft Azure for .NET Developers\Azure.NetCore.Demos\Microservice2Api.Containers.Demo\obj\Debug\net7.0\staticwebassets.development.json
+E:\Projects\Udemy Learnings 2024\Microsoft Azure for .NET Developers\Azure.NetCore.Demos\Microservice2Api.Containers.Demo\obj\Debug\net7.0\staticwebassets\msbuild.Microservice2Api.Containers.Demo.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Projects\Udemy Learnings 2024\Microsoft Azure for .NET Developers\Azure.NetCore.Demos\Microservice2Api.Containers.Demo\obj\Debug\net7.0\staticwebassets\msbuild.build.Microservice2Api.Containers.Demo.props
+E:\Projects\Udemy Learnings 2024\Microsoft Azure for .NET Developers\Azure.NetCore.Demos\Microservice2Api.Containers.Demo\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Microservice2Api.Containers.Demo.props
+E:\Projects\Udemy Learnings 2024\Microsoft Azure for .NET Developers\Azure.NetCore.Demos\Microservice2Api.Containers.Demo\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Microservice2Api.Containers.Demo.props
+E:\Projects\Udemy Learnings 2024\Microsoft Azure for .NET Developers\Azure.NetCore.Demos\Microservice2Api.Containers.Demo\obj\Debug\net7.0\staticwebassets.pack.json
+E:\Projects\Udemy Learnings 2024\Microsoft Azure for .NET Developers\Azure.NetCore.Demos\Microservice2Api.Containers.Demo\obj\Debug\net7.0\scopedcss\bundle\Microservice2Api.Containers.Demo.styles.css
+E:\Projects\Udemy Learnings 2024\Microsoft Azure for .NET Developers\Azure.NetCore.Demos\Microservice2Api.Containers.Demo\obj\Debug\net7.0\Microser.42ECC6B1.Up2Date
+E:\Projects\Udemy Learnings 2024\Microsoft Azure for .NET Developers\Azure.NetCore.Demos\Microservice2Api.Containers.Demo\obj\Debug\net7.0\Microservice2Api.Containers.Demo.dll
+E:\Projects\Udemy Learnings 2024\Microsoft Azure for .NET Developers\Azure.NetCore.Demos\Microservice2Api.Containers.Demo\obj\Debug\net7.0\refint\Microservice2Api.Containers.Demo.dll
+E:\Projects\Udemy Learnings 2024\Microsoft Azure for .NET Developers\Azure.NetCore.Demos\Microservice2Api.Containers.Demo\obj\Debug\net7.0\Microservice2Api.Containers.Demo.pdb
+E:\Projects\Udemy Learnings 2024\Microsoft Azure for .NET Developers\Azure.NetCore.Demos\Microservice2Api.Containers.Demo\obj\Debug\net7.0\Microservice2Api.Containers.Demo.genruntimeconfig.cache
+E:\Projects\Udemy Learnings 2024\Microsoft Azure for .NET Developers\Azure.NetCore.Demos\Microservice2Api.Containers.Demo\obj\Debug\net7.0\ref\Microservice2Api.Containers.Demo.dll
+E:\Projects\Freelance\demo-applications\Azure\Cloud_Native_Applications\Microservice2Api.Containers.Demo\bin\Debug\net7.0\appsettings.Development.json
+E:\Projects\Freelance\demo-applications\Azure\Cloud_Native_Applications\Microservice2Api.Containers.Demo\bin\Debug\net7.0\appsettings.json
+E:\Projects\Freelance\demo-applications\Azure\Cloud_Native_Applications\Microservice2Api.Containers.Demo\bin\Debug\net7.0\Microservice2Api.Containers.Demo.exe
+E:\Projects\Freelance\demo-applications\Azure\Cloud_Native_Applications\Microservice2Api.Containers.Demo\bin\Debug\net7.0\Microservice2Api.Containers.Demo.deps.json
+E:\Projects\Freelance\demo-applications\Azure\Cloud_Native_Applications\Microservice2Api.Containers.Demo\bin\Debug\net7.0\Microservice2Api.Containers.Demo.runtimeconfig.json
+E:\Projects\Freelance\demo-applications\Azure\Cloud_Native_Applications\Microservice2Api.Containers.Demo\bin\Debug\net7.0\Microservice2Api.Containers.Demo.dll
+E:\Projects\Freelance\demo-applications\Azure\Cloud_Native_Applications\Microservice2Api.Containers.Demo\bin\Debug\net7.0\Microservice2Api.Containers.Demo.pdb
+E:\Projects\Freelance\demo-applications\Azure\Cloud_Native_Applications\Microservice2Api.Containers.Demo\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\Projects\Freelance\demo-applications\Azure\Cloud_Native_Applications\Microservice2Api.Containers.Demo\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\Projects\Freelance\demo-applications\Azure\Cloud_Native_Applications\Microservice2Api.Containers.Demo\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Projects\Freelance\demo-applications\Azure\Cloud_Native_Applications\Microservice2Api.Containers.Demo\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Projects\Freelance\demo-applications\Azure\Cloud_Native_Applications\Microservice2Api.Containers.Demo\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Projects\Freelance\demo-applications\Azure\Cloud_Native_Applications\Microservice2Api.Containers.Demo\obj\Debug\net7.0\Microservice2Api.Containers.Demo.csproj.AssemblyReference.cache
+E:\Projects\Freelance\demo-applications\Azure\Cloud_Native_Applications\Microservice2Api.Containers.Demo\obj\Debug\net7.0\Microservice2Api.Containers.Demo.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Freelance\demo-applications\Azure\Cloud_Native_Applications\Microservice2Api.Containers.Demo\obj\Debug\net7.0\Microservice2Api.Containers.Demo.AssemblyInfoInputs.cache
+E:\Projects\Freelance\demo-applications\Azure\Cloud_Native_Applications\Microservice2Api.Containers.Demo\obj\Debug\net7.0\Microservice2Api.Containers.Demo.AssemblyInfo.cs
+E:\Projects\Freelance\demo-applications\Azure\Cloud_Native_Applications\Microservice2Api.Containers.Demo\obj\Debug\net7.0\Microservice2Api.Containers.Demo.csproj.CoreCompileInputs.cache
+E:\Projects\Freelance\demo-applications\Azure\Cloud_Native_Applications\Microservice2Api.Containers.Demo\obj\Debug\net7.0\Microservice2Api.Containers.Demo.MvcApplicationPartsAssemblyInfo.cs
+E:\Projects\Freelance\demo-applications\Azure\Cloud_Native_Applications\Microservice2Api.Containers.Demo\obj\Debug\net7.0\Microservice2Api.Containers.Demo.MvcApplicationPartsAssemblyInfo.cache
+E:\Projects\Freelance\demo-applications\Azure\Cloud_Native_Applications\Microservice2Api.Containers.Demo\obj\Debug\net7.0\Microservice2Api.Containers.Demo.sourcelink.json
+E:\Projects\Freelance\demo-applications\Azure\Cloud_Native_Applications\Microservice2Api.Containers.Demo\obj\Debug\net7.0\staticwebassets.build.json
+E:\Projects\Freelance\demo-applications\Azure\Cloud_Native_Applications\Microservice2Api.Containers.Demo\obj\Debug\net7.0\staticwebassets.development.json
+E:\Projects\Freelance\demo-applications\Azure\Cloud_Native_Applications\Microservice2Api.Containers.Demo\obj\Debug\net7.0\staticwebassets\msbuild.Microservice2Api.Containers.Demo.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Projects\Freelance\demo-applications\Azure\Cloud_Native_Applications\Microservice2Api.Containers.Demo\obj\Debug\net7.0\staticwebassets\msbuild.build.Microservice2Api.Containers.Demo.props
+E:\Projects\Freelance\demo-applications\Azure\Cloud_Native_Applications\Microservice2Api.Containers.Demo\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Microservice2Api.Containers.Demo.props
+E:\Projects\Freelance\demo-applications\Azure\Cloud_Native_Applications\Microservice2Api.Containers.Demo\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Microservice2Api.Containers.Demo.props
+E:\Projects\Freelance\demo-applications\Azure\Cloud_Native_Applications\Microservice2Api.Containers.Demo\obj\Debug\net7.0\staticwebassets.pack.json
+E:\Projects\Freelance\demo-applications\Azure\Cloud_Native_Applications\Microservice2Api.Containers.Demo\obj\Debug\net7.0\scopedcss\bundle\Microservice2Api.Containers.Demo.styles.css
+E:\Projects\Freelance\demo-applications\Azure\Cloud_Native_Applications\Microservice2Api.Containers.Demo\obj\Debug\net7.0\Microser.42ECC6B1.Up2Date
+E:\Projects\Freelance\demo-applications\Azure\Cloud_Native_Applications\Microservice2Api.Containers.Demo\obj\Debug\net7.0\Microservice2Api.Containers.Demo.dll
+E:\Projects\Freelance\demo-applications\Azure\Cloud_Native_Applications\Microservice2Api.Containers.Demo\obj\Debug\net7.0\refint\Microservice2Api.Containers.Demo.dll
+E:\Projects\Freelance\demo-applications\Azure\Cloud_Native_Applications\Microservice2Api.Containers.Demo\obj\Debug\net7.0\Microservice2Api.Containers.Demo.pdb
+E:\Projects\Freelance\demo-applications\Azure\Cloud_Native_Applications\Microservice2Api.Containers.Demo\obj\Debug\net7.0\Microservice2Api.Containers.Demo.genruntimeconfig.cache
+E:\Projects\Freelance\demo-applications\Azure\Cloud_Native_Applications\Microservice2Api.Containers.Demo\obj\Debug\net7.0\ref\Microservice2Api.Containers.Demo.dll

@@ -1,0 +1,46 @@
+E:\Projects\Udemy Learnings 2024\Microsoft Azure for .NET Developers\Azure.NetCore.Demos\Console.ServiceBusReceiver.Demo\bin\Debug\net7.0\Console.ServiceBusReceiver.Demo.exe
+E:\Projects\Udemy Learnings 2024\Microsoft Azure for .NET Developers\Azure.NetCore.Demos\Console.ServiceBusReceiver.Demo\bin\Debug\net7.0\Console.ServiceBusReceiver.Demo.deps.json
+E:\Projects\Udemy Learnings 2024\Microsoft Azure for .NET Developers\Azure.NetCore.Demos\Console.ServiceBusReceiver.Demo\bin\Debug\net7.0\Console.ServiceBusReceiver.Demo.runtimeconfig.json
+E:\Projects\Udemy Learnings 2024\Microsoft Azure for .NET Developers\Azure.NetCore.Demos\Console.ServiceBusReceiver.Demo\bin\Debug\net7.0\Console.ServiceBusReceiver.Demo.dll
+E:\Projects\Udemy Learnings 2024\Microsoft Azure for .NET Developers\Azure.NetCore.Demos\Console.ServiceBusReceiver.Demo\bin\Debug\net7.0\Console.ServiceBusReceiver.Demo.pdb
+E:\Projects\Udemy Learnings 2024\Microsoft Azure for .NET Developers\Azure.NetCore.Demos\Console.ServiceBusReceiver.Demo\bin\Debug\net7.0\Azure.Core.dll
+E:\Projects\Udemy Learnings 2024\Microsoft Azure for .NET Developers\Azure.NetCore.Demos\Console.ServiceBusReceiver.Demo\bin\Debug\net7.0\Azure.Core.Amqp.dll
+E:\Projects\Udemy Learnings 2024\Microsoft Azure for .NET Developers\Azure.NetCore.Demos\Console.ServiceBusReceiver.Demo\bin\Debug\net7.0\Azure.Messaging.ServiceBus.dll
+E:\Projects\Udemy Learnings 2024\Microsoft Azure for .NET Developers\Azure.NetCore.Demos\Console.ServiceBusReceiver.Demo\bin\Debug\net7.0\Microsoft.Azure.Amqp.dll
+E:\Projects\Udemy Learnings 2024\Microsoft Azure for .NET Developers\Azure.NetCore.Demos\Console.ServiceBusReceiver.Demo\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Projects\Udemy Learnings 2024\Microsoft Azure for .NET Developers\Azure.NetCore.Demos\Console.ServiceBusReceiver.Demo\bin\Debug\net7.0\System.Memory.Data.dll
+E:\Projects\Udemy Learnings 2024\Microsoft Azure for .NET Developers\Azure.NetCore.Demos\Console.ServiceBusReceiver.Demo\obj\Debug\net7.0\Console.ServiceBusReceiver.Demo.csproj.AssemblyReference.cache
+E:\Projects\Udemy Learnings 2024\Microsoft Azure for .NET Developers\Azure.NetCore.Demos\Console.ServiceBusReceiver.Demo\obj\Debug\net7.0\Console.ServiceBusReceiver.Demo.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Udemy Learnings 2024\Microsoft Azure for .NET Developers\Azure.NetCore.Demos\Console.ServiceBusReceiver.Demo\obj\Debug\net7.0\Console.ServiceBusReceiver.Demo.AssemblyInfoInputs.cache
+E:\Projects\Udemy Learnings 2024\Microsoft Azure for .NET Developers\Azure.NetCore.Demos\Console.ServiceBusReceiver.Demo\obj\Debug\net7.0\Console.ServiceBusReceiver.Demo.AssemblyInfo.cs
+E:\Projects\Udemy Learnings 2024\Microsoft Azure for .NET Developers\Azure.NetCore.Demos\Console.ServiceBusReceiver.Demo\obj\Debug\net7.0\Console.ServiceBusReceiver.Demo.csproj.CoreCompileInputs.cache
+E:\Projects\Udemy Learnings 2024\Microsoft Azure for .NET Developers\Azure.NetCore.Demos\Console.ServiceBusReceiver.Demo\obj\Debug\net7.0\Console.ServiceBusReceiver.Demo.sourcelink.json
+E:\Projects\Udemy Learnings 2024\Microsoft Azure for .NET Developers\Azure.NetCore.Demos\Console.ServiceBusReceiver.Demo\obj\Debug\net7.0\Console..8400EF14.Up2Date
+E:\Projects\Udemy Learnings 2024\Microsoft Azure for .NET Developers\Azure.NetCore.Demos\Console.ServiceBusReceiver.Demo\obj\Debug\net7.0\Console.ServiceBusReceiver.Demo.dll
+E:\Projects\Udemy Learnings 2024\Microsoft Azure for .NET Developers\Azure.NetCore.Demos\Console.ServiceBusReceiver.Demo\obj\Debug\net7.0\refint\Console.ServiceBusReceiver.Demo.dll
+E:\Projects\Udemy Learnings 2024\Microsoft Azure for .NET Developers\Azure.NetCore.Demos\Console.ServiceBusReceiver.Demo\obj\Debug\net7.0\Console.ServiceBusReceiver.Demo.pdb
+E:\Projects\Udemy Learnings 2024\Microsoft Azure for .NET Developers\Azure.NetCore.Demos\Console.ServiceBusReceiver.Demo\obj\Debug\net7.0\Console.ServiceBusReceiver.Demo.genruntimeconfig.cache
+E:\Projects\Udemy Learnings 2024\Microsoft Azure for .NET Developers\Azure.NetCore.Demos\Console.ServiceBusReceiver.Demo\obj\Debug\net7.0\ref\Console.ServiceBusReceiver.Demo.dll
+E:\Projects\Freelance\demo-applications\Azure\Cloud_Native_Applications\Console.ServiceBusReceiver.Demo\bin\Debug\net7.0\Console.ServiceBusReceiver.Demo.exe
+E:\Projects\Freelance\demo-applications\Azure\Cloud_Native_Applications\Console.ServiceBusReceiver.Demo\bin\Debug\net7.0\Console.ServiceBusReceiver.Demo.deps.json
+E:\Projects\Freelance\demo-applications\Azure\Cloud_Native_Applications\Console.ServiceBusReceiver.Demo\bin\Debug\net7.0\Console.ServiceBusReceiver.Demo.runtimeconfig.json
+E:\Projects\Freelance\demo-applications\Azure\Cloud_Native_Applications\Console.ServiceBusReceiver.Demo\bin\Debug\net7.0\Console.ServiceBusReceiver.Demo.dll
+E:\Projects\Freelance\demo-applications\Azure\Cloud_Native_Applications\Console.ServiceBusReceiver.Demo\bin\Debug\net7.0\Console.ServiceBusReceiver.Demo.pdb
+E:\Projects\Freelance\demo-applications\Azure\Cloud_Native_Applications\Console.ServiceBusReceiver.Demo\bin\Debug\net7.0\Azure.Core.dll
+E:\Projects\Freelance\demo-applications\Azure\Cloud_Native_Applications\Console.ServiceBusReceiver.Demo\bin\Debug\net7.0\Azure.Core.Amqp.dll
+E:\Projects\Freelance\demo-applications\Azure\Cloud_Native_Applications\Console.ServiceBusReceiver.Demo\bin\Debug\net7.0\Azure.Messaging.ServiceBus.dll
+E:\Projects\Freelance\demo-applications\Azure\Cloud_Native_Applications\Console.ServiceBusReceiver.Demo\bin\Debug\net7.0\Microsoft.Azure.Amqp.dll
+E:\Projects\Freelance\demo-applications\Azure\Cloud_Native_Applications\Console.ServiceBusReceiver.Demo\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Projects\Freelance\demo-applications\Azure\Cloud_Native_Applications\Console.ServiceBusReceiver.Demo\bin\Debug\net7.0\System.Memory.Data.dll
+E:\Projects\Freelance\demo-applications\Azure\Cloud_Native_Applications\Console.ServiceBusReceiver.Demo\obj\Debug\net7.0\Console.ServiceBusReceiver.Demo.csproj.AssemblyReference.cache
+E:\Projects\Freelance\demo-applications\Azure\Cloud_Native_Applications\Console.ServiceBusReceiver.Demo\obj\Debug\net7.0\Console.ServiceBusReceiver.Demo.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Freelance\demo-applications\Azure\Cloud_Native_Applications\Console.ServiceBusReceiver.Demo\obj\Debug\net7.0\Console.ServiceBusReceiver.Demo.AssemblyInfoInputs.cache
+E:\Projects\Freelance\demo-applications\Azure\Cloud_Native_Applications\Console.ServiceBusReceiver.Demo\obj\Debug\net7.0\Console.ServiceBusReceiver.Demo.AssemblyInfo.cs
+E:\Projects\Freelance\demo-applications\Azure\Cloud_Native_Applications\Console.ServiceBusReceiver.Demo\obj\Debug\net7.0\Console.ServiceBusReceiver.Demo.csproj.CoreCompileInputs.cache
+E:\Projects\Freelance\demo-applications\Azure\Cloud_Native_Applications\Console.ServiceBusReceiver.Demo\obj\Debug\net7.0\Console.ServiceBusReceiver.Demo.sourcelink.json
+E:\Projects\Freelance\demo-applications\Azure\Cloud_Native_Applications\Console.ServiceBusReceiver.Demo\obj\Debug\net7.0\Console..8400EF14.Up2Date
+E:\Projects\Freelance\demo-applications\Azure\Cloud_Native_Applications\Console.ServiceBusReceiver.Demo\obj\Debug\net7.0\Console.ServiceBusReceiver.Demo.dll
+E:\Projects\Freelance\demo-applications\Azure\Cloud_Native_Applications\Console.ServiceBusReceiver.Demo\obj\Debug\net7.0\refint\Console.ServiceBusReceiver.Demo.dll
+E:\Projects\Freelance\demo-applications\Azure\Cloud_Native_Applications\Console.ServiceBusReceiver.Demo\obj\Debug\net7.0\Console.ServiceBusReceiver.Demo.pdb
+E:\Projects\Freelance\demo-applications\Azure\Cloud_Native_Applications\Console.ServiceBusReceiver.Demo\obj\Debug\net7.0\Console.ServiceBusReceiver.Demo.genruntimeconfig.cache
+E:\Projects\Freelance\demo-applications\Azure\Cloud_Native_Applications\Console.ServiceBusReceiver.Demo\obj\Debug\net7.0\ref\Console.ServiceBusReceiver.Demo.dll

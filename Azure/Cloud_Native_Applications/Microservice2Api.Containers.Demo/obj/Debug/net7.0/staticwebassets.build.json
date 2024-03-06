@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "8ISw3cRmydcGXvpkMHq+/yzPhx9vIZD90OEP4pjZQt4=",
+  "Source": "Microservice2Api.Containers.Demo",
+  "BasePath": "_content/Microservice2Api.Containers.Demo",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

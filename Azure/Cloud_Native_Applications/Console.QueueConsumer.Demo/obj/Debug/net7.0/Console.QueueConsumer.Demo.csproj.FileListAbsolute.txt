@@ -1,0 +1,64 @@
+E:\Projects\Udemy Learnings 2024\Microsoft Azure for .NET Developers\Azure.NetCore.Demos\Console.QueueConsumer.Demo\bin\Debug\net7.0\Console.QueueConsumer.Demo.exe
+E:\Projects\Udemy Learnings 2024\Microsoft Azure for .NET Developers\Azure.NetCore.Demos\Console.QueueConsumer.Demo\bin\Debug\net7.0\Console.QueueConsumer.Demo.deps.json
+E:\Projects\Udemy Learnings 2024\Microsoft Azure for .NET Developers\Azure.NetCore.Demos\Console.QueueConsumer.Demo\bin\Debug\net7.0\Console.QueueConsumer.Demo.runtimeconfig.json
+E:\Projects\Udemy Learnings 2024\Microsoft Azure for .NET Developers\Azure.NetCore.Demos\Console.QueueConsumer.Demo\bin\Debug\net7.0\Console.QueueConsumer.Demo.dll
+E:\Projects\Udemy Learnings 2024\Microsoft Azure for .NET Developers\Azure.NetCore.Demos\Console.QueueConsumer.Demo\bin\Debug\net7.0\Console.QueueConsumer.Demo.pdb
+E:\Projects\Udemy Learnings 2024\Microsoft Azure for .NET Developers\Azure.NetCore.Demos\Console.QueueConsumer.Demo\bin\Debug\net7.0\Azure.Core.dll
+E:\Projects\Udemy Learnings 2024\Microsoft Azure for .NET Developers\Azure.NetCore.Demos\Console.QueueConsumer.Demo\bin\Debug\net7.0\Azure.Storage.Common.dll
+E:\Projects\Udemy Learnings 2024\Microsoft Azure for .NET Developers\Azure.NetCore.Demos\Console.QueueConsumer.Demo\bin\Debug\net7.0\Azure.Storage.Queues.dll
+E:\Projects\Udemy Learnings 2024\Microsoft Azure for .NET Developers\Azure.NetCore.Demos\Console.QueueConsumer.Demo\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Projects\Udemy Learnings 2024\Microsoft Azure for .NET Developers\Azure.NetCore.Demos\Console.QueueConsumer.Demo\bin\Debug\net7.0\Microsoft.Extensions.Configuration.dll
+E:\Projects\Udemy Learnings 2024\Microsoft Azure for .NET Developers\Azure.NetCore.Demos\Console.QueueConsumer.Demo\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Projects\Udemy Learnings 2024\Microsoft Azure for .NET Developers\Azure.NetCore.Demos\Console.QueueConsumer.Demo\bin\Debug\net7.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\Projects\Udemy Learnings 2024\Microsoft Azure for .NET Developers\Azure.NetCore.Demos\Console.QueueConsumer.Demo\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Json.dll
+E:\Projects\Udemy Learnings 2024\Microsoft Azure for .NET Developers\Azure.NetCore.Demos\Console.QueueConsumer.Demo\bin\Debug\net7.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+E:\Projects\Udemy Learnings 2024\Microsoft Azure for .NET Developers\Azure.NetCore.Demos\Console.QueueConsumer.Demo\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\Projects\Udemy Learnings 2024\Microsoft Azure for .NET Developers\Azure.NetCore.Demos\Console.QueueConsumer.Demo\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Physical.dll
+E:\Projects\Udemy Learnings 2024\Microsoft Azure for .NET Developers\Azure.NetCore.Demos\Console.QueueConsumer.Demo\bin\Debug\net7.0\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\Projects\Udemy Learnings 2024\Microsoft Azure for .NET Developers\Azure.NetCore.Demos\Console.QueueConsumer.Demo\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+E:\Projects\Udemy Learnings 2024\Microsoft Azure for .NET Developers\Azure.NetCore.Demos\Console.QueueConsumer.Demo\bin\Debug\net7.0\System.IO.Hashing.dll
+E:\Projects\Udemy Learnings 2024\Microsoft Azure for .NET Developers\Azure.NetCore.Demos\Console.QueueConsumer.Demo\bin\Debug\net7.0\System.Memory.Data.dll
+E:\Projects\Udemy Learnings 2024\Microsoft Azure for .NET Developers\Azure.NetCore.Demos\Console.QueueConsumer.Demo\obj\Debug\net7.0\Console.QueueConsumer.Demo.csproj.AssemblyReference.cache
+E:\Projects\Udemy Learnings 2024\Microsoft Azure for .NET Developers\Azure.NetCore.Demos\Console.QueueConsumer.Demo\obj\Debug\net7.0\Console.QueueConsumer.Demo.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Udemy Learnings 2024\Microsoft Azure for .NET Developers\Azure.NetCore.Demos\Console.QueueConsumer.Demo\obj\Debug\net7.0\Console.QueueConsumer.Demo.AssemblyInfoInputs.cache
+E:\Projects\Udemy Learnings 2024\Microsoft Azure for .NET Developers\Azure.NetCore.Demos\Console.QueueConsumer.Demo\obj\Debug\net7.0\Console.QueueConsumer.Demo.AssemblyInfo.cs
+E:\Projects\Udemy Learnings 2024\Microsoft Azure for .NET Developers\Azure.NetCore.Demos\Console.QueueConsumer.Demo\obj\Debug\net7.0\Console.QueueConsumer.Demo.csproj.CoreCompileInputs.cache
+E:\Projects\Udemy Learnings 2024\Microsoft Azure for .NET Developers\Azure.NetCore.Demos\Console.QueueConsumer.Demo\obj\Debug\net7.0\Console.QueueConsumer.Demo.sourcelink.json
+E:\Projects\Udemy Learnings 2024\Microsoft Azure for .NET Developers\Azure.NetCore.Demos\Console.QueueConsumer.Demo\obj\Debug\net7.0\Console..E9166610.Up2Date
+E:\Projects\Udemy Learnings 2024\Microsoft Azure for .NET Developers\Azure.NetCore.Demos\Console.QueueConsumer.Demo\obj\Debug\net7.0\Console.QueueConsumer.Demo.dll
+E:\Projects\Udemy Learnings 2024\Microsoft Azure for .NET Developers\Azure.NetCore.Demos\Console.QueueConsumer.Demo\obj\Debug\net7.0\refint\Console.QueueConsumer.Demo.dll
+E:\Projects\Udemy Learnings 2024\Microsoft Azure for .NET Developers\Azure.NetCore.Demos\Console.QueueConsumer.Demo\obj\Debug\net7.0\Console.QueueConsumer.Demo.pdb
+E:\Projects\Udemy Learnings 2024\Microsoft Azure for .NET Developers\Azure.NetCore.Demos\Console.QueueConsumer.Demo\obj\Debug\net7.0\Console.QueueConsumer.Demo.genruntimeconfig.cache
+E:\Projects\Udemy Learnings 2024\Microsoft Azure for .NET Developers\Azure.NetCore.Demos\Console.QueueConsumer.Demo\obj\Debug\net7.0\ref\Console.QueueConsumer.Demo.dll
+E:\Projects\Freelance\demo-applications\Azure\Cloud_Native_Applications\Console.QueueConsumer.Demo\bin\Debug\net7.0\Console.QueueConsumer.Demo.exe
+E:\Projects\Freelance\demo-applications\Azure\Cloud_Native_Applications\Console.QueueConsumer.Demo\bin\Debug\net7.0\Console.QueueConsumer.Demo.deps.json
+E:\Projects\Freelance\demo-applications\Azure\Cloud_Native_Applications\Console.QueueConsumer.Demo\bin\Debug\net7.0\Console.QueueConsumer.Demo.runtimeconfig.json
+E:\Projects\Freelance\demo-applications\Azure\Cloud_Native_Applications\Console.QueueConsumer.Demo\bin\Debug\net7.0\Console.QueueConsumer.Demo.dll
+E:\Projects\Freelance\demo-applications\Azure\Cloud_Native_Applications\Console.QueueConsumer.Demo\bin\Debug\net7.0\Console.QueueConsumer.Demo.pdb
+E:\Projects\Freelance\demo-applications\Azure\Cloud_Native_Applications\Console.QueueConsumer.Demo\bin\Debug\net7.0\Azure.Core.dll
+E:\Projects\Freelance\demo-applications\Azure\Cloud_Native_Applications\Console.QueueConsumer.Demo\bin\Debug\net7.0\Azure.Storage.Common.dll
+E:\Projects\Freelance\demo-applications\Azure\Cloud_Native_Applications\Console.QueueConsumer.Demo\bin\Debug\net7.0\Azure.Storage.Queues.dll
+E:\Projects\Freelance\demo-applications\Azure\Cloud_Native_Applications\Console.QueueConsumer.Demo\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Projects\Freelance\demo-applications\Azure\Cloud_Native_Applications\Console.QueueConsumer.Demo\bin\Debug\net7.0\Microsoft.Extensions.Configuration.dll
+E:\Projects\Freelance\demo-applications\Azure\Cloud_Native_Applications\Console.QueueConsumer.Demo\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Projects\Freelance\demo-applications\Azure\Cloud_Native_Applications\Console.QueueConsumer.Demo\bin\Debug\net7.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\Projects\Freelance\demo-applications\Azure\Cloud_Native_Applications\Console.QueueConsumer.Demo\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Json.dll
+E:\Projects\Freelance\demo-applications\Azure\Cloud_Native_Applications\Console.QueueConsumer.Demo\bin\Debug\net7.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+E:\Projects\Freelance\demo-applications\Azure\Cloud_Native_Applications\Console.QueueConsumer.Demo\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\Projects\Freelance\demo-applications\Azure\Cloud_Native_Applications\Console.QueueConsumer.Demo\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Physical.dll
+E:\Projects\Freelance\demo-applications\Azure\Cloud_Native_Applications\Console.QueueConsumer.Demo\bin\Debug\net7.0\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\Projects\Freelance\demo-applications\Azure\Cloud_Native_Applications\Console.QueueConsumer.Demo\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+E:\Projects\Freelance\demo-applications\Azure\Cloud_Native_Applications\Console.QueueConsumer.Demo\bin\Debug\net7.0\System.IO.Hashing.dll
+E:\Projects\Freelance\demo-applications\Azure\Cloud_Native_Applications\Console.QueueConsumer.Demo\bin\Debug\net7.0\System.Memory.Data.dll
+E:\Projects\Freelance\demo-applications\Azure\Cloud_Native_Applications\Console.QueueConsumer.Demo\obj\Debug\net7.0\Console.QueueConsumer.Demo.csproj.AssemblyReference.cache
+E:\Projects\Freelance\demo-applications\Azure\Cloud_Native_Applications\Console.QueueConsumer.Demo\obj\Debug\net7.0\Console.QueueConsumer.Demo.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Freelance\demo-applications\Azure\Cloud_Native_Applications\Console.QueueConsumer.Demo\obj\Debug\net7.0\Console.QueueConsumer.Demo.AssemblyInfoInputs.cache
+E:\Projects\Freelance\demo-applications\Azure\Cloud_Native_Applications\Console.QueueConsumer.Demo\obj\Debug\net7.0\Console.QueueConsumer.Demo.AssemblyInfo.cs
+E:\Projects\Freelance\demo-applications\Azure\Cloud_Native_Applications\Console.QueueConsumer.Demo\obj\Debug\net7.0\Console.QueueConsumer.Demo.csproj.CoreCompileInputs.cache
+E:\Projects\Freelance\demo-applications\Azure\Cloud_Native_Applications\Console.QueueConsumer.Demo\obj\Debug\net7.0\Console.QueueConsumer.Demo.sourcelink.json
+E:\Projects\Freelance\demo-applications\Azure\Cloud_Native_Applications\Console.QueueConsumer.Demo\obj\Debug\net7.0\Console..E9166610.Up2Date
+E:\Projects\Freelance\demo-applications\Azure\Cloud_Native_Applications\Console.QueueConsumer.Demo\obj\Debug\net7.0\Console.QueueConsumer.Demo.dll
+E:\Projects\Freelance\demo-applications\Azure\Cloud_Native_Applications\Console.QueueConsumer.Demo\obj\Debug\net7.0\refint\Console.QueueConsumer.Demo.dll
+E:\Projects\Freelance\demo-applications\Azure\Cloud_Native_Applications\Console.QueueConsumer.Demo\obj\Debug\net7.0\Console.QueueConsumer.Demo.pdb
+E:\Projects\Freelance\demo-applications\Azure\Cloud_Native_Applications\Console.QueueConsumer.Demo\obj\Debug\net7.0\Console.QueueConsumer.Demo.genruntimeconfig.cache
+E:\Projects\Freelance\demo-applications\Azure\Cloud_Native_Applications\Console.QueueConsumer.Demo\obj\Debug\net7.0\ref\Console.QueueConsumer.Demo.dll
